@@ -19,6 +19,7 @@ Application was tested under both Android and iOS platform:
 * In the project directory, install the dependencies with <b>yarn install</b>.
 * Start the application in development mode with <b>yarn start</b>.
 * Scan the QR code with <a href='https://expo.io'>Expo</a> app and you will see the app in your mobile device.
+  Please note that your mobile device needs to be in the same network with your development machine.
 
 ## Technologies
 
