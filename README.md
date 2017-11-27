@@ -1,12 +1,12 @@
 Udacity Project for the React Nanodegree Program.
 
-# Mobile Flascards
+# Mobile Flashcards
 
 This is a mobile application (Android and iOS) that allows users to study collections of flashcards. Users can create different categories of flashcards called "decks", add flashcards to those decks, then take quizzes on those decks.
 
 ## Platform
 
-Application is tested under both Android and iOS platform:
+Application was tested under both Android and iOS platform:
 1. Android simulator (Genymotion Simulator - Samsung Galaxy S8 - Android ver 7.0)
 2. iOS simulator (iOS 11.1 iPhone Simulator)
 3. Android real device (Redmi Note 4 - Android ver 7.0)
