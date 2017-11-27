@@ -1,0 +1,14 @@
+export const purple = '#292477';
+export const gray = '#757575';
+export const white = '#fff';
+export const red = '#b71845';
+export const limeGreen = '#32cd32';
+export const orange = '#f26f28';
+export const blue = '#4e4cb8';
+export const lightPurp = '#7c53c3';
+export const pink = '#b93fb3';
+export const lightGray = '#d3d3d3';
+export const whiteSmoke = '#f5f5f5';
+export const gainsboro = '#f0f0f0';
+export const darkBlue = '#0000a0';
+export const darkSlateBlue = '#333399';
