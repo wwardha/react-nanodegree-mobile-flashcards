@@ -49,7 +49,7 @@ function BackToDeckBtn ({ onPress }) {
         <TouchableOpacity
             style={Platform.OS === 'ios' ? styles.iosSubmitBtn : styles.AndroidSubmitBtn}
             onPress={onPress}>
-            <Text style={styles.submitBtnText}>Back To Deck</Text>
+            <Text style={styles.submitBtnText}>Back to Deck</Text>
         </TouchableOpacity>
     );
 }
